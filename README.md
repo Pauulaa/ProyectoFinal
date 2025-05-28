@@ -21,4 +21,5 @@ Tema usado:
 - Navegación personalizada con MegaMenu.
 - Personalización visual con Elementor.
 
-> Nota: Como el panel no permite usar Git directamente, algunos cambios fueron hechos desde el administrador de WordPress y no aparecen reflejados en el repositorio.
+> Nota: Este proyecto se gestiona desde un panel de control sin acceso SSH, por lo que todos los cambios se suben manualmente.  
+Cada vez que hay cambios en WordPress (plugins, temas, etc.), se descarga la carpeta entera y se sube al repositorio para mantenerlo actualizado.
